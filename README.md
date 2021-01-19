@@ -1,3 +1,8 @@
+# Todos
+
+- Put some CSS and responsive
+- Add a feature to copy emoji on clipboard
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
